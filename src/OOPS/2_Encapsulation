@@ -17,7 +17,7 @@ Concepts within Encapsulation:
             1.3.4.1. Shallow Copy                       //Default copy constructor, which copies the values of one object into another object by reference (i.e. address)
             1.3.4.2. Deep Copy                          //Copy constructor, which copies the values of one object into another object by value (i.e. data)
             1.3.4.3. Cloning                            //Alternative of copy constructor, which copies the values of one object into another object by value (i.e. data) by using clone() method. It is faster than copy constructor.
-        1.3.6. Constructor Chaining                 //Calling one constructor from another constructor, using this() keyword. Constructor chaining can be done in two ways: 1. Within same class 2. From parent class to child class (i.e. super() keyword - Inheritance)
+        1.3.6. Constructor Telescoping                 //Calling one constructor from another constructor within the same class, using this() keyword.
         1.3.6. Constructor Overloading              //Having multiple constructors with different parameters
     1.4. Destructor                         //Special type of method which is used to destroy the object. Java doesn't support destructor, but we can use finalize() method to perform the same task.
         1.4.1. finalize() method                    //It is used to perform clean up processing just before object is garbage collected.
@@ -34,6 +34,7 @@ Concepts within Encapsulation:
         2.1.4. default (package protected)      //It can be accessed within the class and its package only.
     2.2. Getter and Setter Methods          //It is used to get and set the values of private data members.
 3. this keyword                     //It is used to refer current class instance variable.
+    3.1. this() method              //It is used to invoke current class constructor. (Constructor Telescoping)
 4. static keyword                   //It is used to create static entities. There are four types of static entities:
     4.1. static variable                    //It is used to create static variable, which belongs to the class rather than object. It can be accessed by class name. Used to create constant variable.
     4.2. static method                      //It is used to create static method, which belongs to the class rather than object. It can be accessed by class name. Used to create utility method.
