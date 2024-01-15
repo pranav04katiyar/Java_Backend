@@ -43,11 +43,13 @@ Concepts within Encapsulation:
     5.1. final variable                     //It is used to create final variable, which cannot be changed. It can be initialized at the time of declaration or in constructor only.
     5.2. final method                       //It is used to create final method, which cannot be overridden.
     5.3. final class                        //It is used to create final class, which cannot be inherited.
-6. return keyword                   //It is used to return the value from a method.
-    6.1. return statement                   //It is used to return the value from a method.
-    6.2. return type                        //It is used to specify the type of value that a method returns.
-        6.2.1. void                             //It is used to specify that a method doesn't return any value.
-        6.2.2. primitive data type              //It is used to specify that a method returns a value of primitive data type.
-        6.2.3. class type                       //It is used to specify that a method returns a value of class type.
-7. main method                      //It is used to start the execution of program.
-8. Strings[] args                   //It is used to accept command line arguments.
+6. new keyword                      //It is used to create object.
+    6.1. Memory Allocation                   //It is used to allocate memory to an object.
+7. return keyword                   //It is used to return the value from a method.
+    7.1. return statement                   //It is used to return the value from a method.
+    7.2. return type                        //It is used to specify the type of value that a method returns.
+        7.2.1. void                             //It is used to specify that a method doesn't return any value.
+        7.2.2. primitive data type              //It is used to specify that a method returns a value of primitive data type.
+        7.2.3. class type                       //It is used to specify that a method returns a value of class type.
+8. main method                      //It is used to start the execution of program.
+9. Strings[] args                   //It is used to accept command line arguments.
