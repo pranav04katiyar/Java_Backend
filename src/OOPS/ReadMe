@@ -1,0 +1,12 @@
+This package is about understanding concepts of OOPS in Java.
+
+Principles of OOPS:
+ABSTRACTION - Process of hiding the implementation details and showing only functionality to the user.
+
+Pillars of OOPS:
+Pillar 1: ENCAPSULATION - Wrapping up of data (state) and methods (behavior) together into a single unit (i.e. class) and also hiding the data from outside world (i.e. data hiding).
+Pillar 2: INHERITANCE - Process by which one class acquires the properties of another class (i.e. re-usability).
+Pillar 3: POLYMORPHISM - Ability of a message to be displayed in more than one form (i.e. method overriding and method overloading).
+
+
+
