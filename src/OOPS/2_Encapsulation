@@ -50,4 +50,4 @@ Concepts within Encapsulation:
         6.2.2. primitive data type              //It is used to specify that a method returns a value of primitive data type.
         6.2.3. class type                       //It is used to specify that a method returns a value of class type.
 7. main method                      //It is used to start the execution of program.
-8, Strings[] args                   //It is used to accept command line arguments.
+8. Strings[] args                   //It is used to accept command line arguments.
