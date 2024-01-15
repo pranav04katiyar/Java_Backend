@@ -1,4 +1,6 @@
-ENCAPSULATION:
+Pillar 1: ENCAPSULATION -
+Wrapping up of data (state) and methods (behavior) together into a single unit (i.e. class) and also hiding the data from outside world (i.e. data hiding).
+
 Encapsulation has two aspects:
 1. A language construct that facilitates the bundling of data with the methods (or other functions) operating on that data: Class
 2. A mechanism for restricting direct access to some of the object's components: Access Modifiers (private, protected, public, default(package protected))
