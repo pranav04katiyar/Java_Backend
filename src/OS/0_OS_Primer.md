@@ -9,12 +9,13 @@ Types of OS:
   - > CPU utilization is very low.
   - > Example: MS-DOS, ATM machines OS, Smartwatches OS, etc.
 - Multiprogramming OS: Multiple programs can be executed at a time.
-- > CPU is used efficiently as the CPU is not idle most of the time. 
-
-> Can be further classified based on:
-1. > No. of users: Single-user OS (Personal Computers), Multi-user OS (Mainframes/Servers)
-2. > Program scheduling: Preemptive OS & Non-preemptive OS
-- Multiprocessor OS: Multiple processors can be used to execute multiple programs at a time. Example: Parallel Computing in Supercomputers.
+  - > CPU is used efficiently as the CPU is not idle most of the time. 
+  - > Can be further classified based on:
+      - > No. of users: Single-user OS (Personal Computers), Multi-user OS (Mainframes/Servers)
+      - > Program scheduling: Preemptive OS & Non-preemptive OS
+  - > Example: Windows, Linux, macOS, etc.
+- Multiprocessor OS: Multiple processors can be used to execute multiple programs at a time. 
+  - > Example: Parallel Computing in Supercomputers.
 
 *What is a Kernel*
 > The kernel is a computer program at the core of a computer's operating system with complete control over everything in the system.
