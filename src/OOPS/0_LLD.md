@@ -38,5 +38,5 @@ Procedural Programming vs Object-Oriented Programming:
   State(data) and behavior(logic) are implemented together in the form of objects by using classes.
   Objects have state(attributes/data/variables) and behavior(methods/functions) to perform operations on the state.
     
-> Objects are created in heap memory at runtime using new keyword and constructors.
-  Classes are created in metaspace out of heap memory at compile time using class keyword and class definition.
+> Objects are created in heap memory at runtime, using new keyword and constructors.
+  Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
