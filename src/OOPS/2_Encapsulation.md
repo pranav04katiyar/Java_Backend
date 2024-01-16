@@ -18,84 +18,22 @@ _Encapsulation has two aspects:_
 
     >1.2. Methods (or Behaviors) - Functions
     
-    >1.3. Constructor
+    >1.3. Constructor: Default, No-Arg, Parameterized, Copy(Shallow, Deep, Cloning), Telescoping, Overloading
    
-    >     Default Constructor
-
-    >     No-Arg Constructor
-
-    >     Parameterized Constructor
-
-    >     Copy Constructor
-
-    >         Shallow Copy
-
-    >         Deep Copy
-
-    >         Cloning
-
-    >     Constructor Telescoping
-
-    >     Constructor Overloading
+    >1.4. Destructor: finalize() method
    
-    >1.4. Destructor
+    >1.5. Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
    
-    >     finalize() method    
-   
-    >1.5. Inner Class
-   
-    >     Static Inner Class
-   
-    >     Method Local Inner Class
-   
-    >     Anonymous Inner Class
-   
-    >     Nested Inner Class
 2. >Access Modifiers
    
-    >2.1. Access Modifiers in terms of Class, Method, Variable, Constructor
-   
-    >     private
-   
-    >     protected
-   
-    >     public
-   
-    >     default (package protected)
+    >2.1. Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
    
     >2.2. Getter and Setter Methods
-3. >this keyword
-   
-    >3.1. this() method
-4. >static keyword
-   
-    >4.1. static variable
-   
-    >4.2. static method
-   
-    >4.3. static block
-   
-    >4.4. static class
-5. >final keyword
-   
-    >5.1. final variable
-   
-    >5.2. final method
 
-    >5.3. final class
-6. >new keyword
-   
-    >6.1. Memory Allocation
-7. >return keyword
-   
-    >7.1. return statement
-
-    >7.2. return type 
-
-    >     void
-
-    >     primitive data type
-
-    >     class type
+3. >this keyword & this() method
+4. >static keyword (in terms of Variable. Method, Class, Constructor)
+5. >final keyword (in terms of Variable, Method, Class)
+6. >new keyword (in terms of Object Creation & Memory Allocation)
+7. >return keyword: statement, type (in terms of void, primitive data type, class type)
 8. >main method
 9. >Strings[] args
