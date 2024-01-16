@@ -3,17 +3,17 @@
 *LLD:*
 
 >Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
-LLD has the following goals:
-    -> Low level implementation details of a system
-    -> Organization of code
-    -> Writing good software
+>LLD has the following goals:
+1. > Low level implementation details of a system
+2. >Organization of code
+3. >Writing good software
 
 *What is a good software?*
 > A good software is a software that is:
-1. Easy to understand 
-2. Easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
-3. Easy to scale: Adaptable, Efficient, Reliable, Secure, can increase capacity and functionality as per the requirement.
-4. Easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features. 
+1. >Easy to understand 
+2. >Easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
+3. >Easy to scale: Adaptable, Efficient, Reliable, Secure, can increase capacity and functionality as per the requirement.
+4. >Easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features. 
 
 *Extensibility vs Scalability:*
 
