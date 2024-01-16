@@ -22,3 +22,14 @@ _Pillar 3 - POLYMORPHISM:_
 7. >Global Variables
 
 *Call by Value vs Call by Reference*
+
+*Types of Methods:*
+1. >Static Methods
+2. >Instance Methods or Non-Static Methods
+3. >Final Methods
+4. >Abstract Methods
+5. >Synchronized Methods
+6. >Native Methods
+7. >Default Methods
+   
+*Interview Questions:*

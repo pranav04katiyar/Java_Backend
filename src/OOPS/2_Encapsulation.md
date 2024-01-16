@@ -22,13 +22,18 @@ _Encapsulation has two aspects:_
 
     > Destructor: finalize() method 
 
+    > Types of Classes: Concrete, Abstract, Final, Inner, Anonymous, Nested
+
     > Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
+
+    > Types of Objects: Mutable, Immutable
+
 2. Access Modifiers
    
     > Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
    
     > Getter and Setter Methods
-3. this keyword & this() method
+3. this keyword & this() method(Constructor Telescoping)
 4. static keyword (in terms Variable. Method, Class, Constructor)
 5. final keyword (in terms of Variable, Method, Class)
 6. new keyword (in terms of Object Creation & Memory Allocation)
@@ -39,3 +44,5 @@ _Encapsulation has two aspects:_
     > type (in terms of void, primitive data type, class type)
 8. main method
 9. Strings[] args
+10. System.out.println()
+11. Interview Questions
