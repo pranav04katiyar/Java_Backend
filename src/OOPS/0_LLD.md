@@ -29,7 +29,10 @@
   Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
 
 Procedural Programming vs Object-Oriented Programming:
-    
+
+> Procedural programming is about writing procedures or methods that perform operations on the data, by storing state in data structures and behavior in methods/functions.
+> While object-oriented programming is about creating objects that contain both data (state) and methods (behaviour) within itself, just like real life objects, having some properties/characteristics and actionable behaviours.
+
 > Procedural Programming is a top-down, step-by-step, function driven approach, based on the concept of procedure(function) call.
   State(data) and behavior(logic) are implemented separately. State is stored in data structures and behavior is held in functions.
   The data structures are passed as parameters into functions to perform operations on them.
