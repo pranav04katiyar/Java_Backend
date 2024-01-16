@@ -46,7 +46,7 @@ Procedural Programming vs Object-Oriented Programming:
  
 Advantages of OOPs over Procedural Programming:
 
-> Reusability: Through classes and objects, and inheritance of common attributes and functions.
+> Re-usability: Through classes and objects, and inheritance of common attributes and functions.
 
 > Security: Hiding and protecting information through encapsulation.
 
