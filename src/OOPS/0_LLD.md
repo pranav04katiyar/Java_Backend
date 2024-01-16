@@ -43,3 +43,21 @@ Procedural Programming vs Object-Oriented Programming:
     
 > Objects are created in heap memory at runtime, using new keyword and constructors.
   Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
+ 
+Advantages of OOPs over Procedural Programming:
+
+> Reusability: Through classes and objects, and inheritance of common attributes and functions.
+
+> Security: Hiding and protecting information through encapsulation.
+
+> Maintenance: Easy to make changes without affecting existing objects much.
+
+> Inheritance: Easy to import required functionality from libraries and customize them, thanks to inheritance.
+
+Disadvantages of OOPs over Procedural Programming:
+
+> Beforehand planning of entities that should be modeled as classes.
+
+> OOPS programs are usually larger than those of other paradigms.
+
+> Banana-gorilla problem - You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
