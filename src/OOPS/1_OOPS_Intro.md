@@ -34,6 +34,4 @@ _Pillar 3 - POLYMORPHISM:_
 1. >Call by Value: Passing the value of the variable as an argument, so that the parameter is initialized with the value of the variable.
 2. >Call by Reference: Passing the address of the variable as an argument, so that the parameter is initialized with the address of the variable.
    
-> Java supports only Call by Value.
-
-*Interview Questions:*
+    > Java supports only Call by Value.
