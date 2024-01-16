@@ -13,12 +13,12 @@ _Pillar 3 - POLYMORPHISM:_
 > Ability of a message to be displayed in more than one form (i.e. method overriding and method overloading).
 
 *Types of Variables:*
->Primitive Variables
->Reference Variables
->Static Variables
->Instance Variables or Non-Static Variables
->Final Variables
->Local Variables
->Global Variables
+1. >Primitive Variables
+2. >Reference Variables
+3. >Static Variables
+4. >Instance Variables or Non-Static Variables
+5. >Final Variables
+6. >Local Variables
+7. >Global Variables
 
 *Call by Value vs Call by Reference*
