@@ -21,8 +21,6 @@ _Pillar 3 - POLYMORPHISM:_
 6. >Local Variables
 7. >Global Variables
 
-*Call by Value vs Call by Reference*
-
 *Types of Methods:*
 1. >Static Methods
 2. >Instance Methods or Non-Static Methods
@@ -31,5 +29,11 @@ _Pillar 3 - POLYMORPHISM:_
 5. >Synchronized Methods
 6. >Native Methods
 7. >Default Methods
+
+*Call by Value vs Call by Reference*
+1. >Call by Value: Passing the value of the variable as an argument, so that the parameter is initialized with the value of the variable.
+2. >Call by Reference: Passing the address of the variable as an argument, so that the parameter is initialized with the address of the variable.
    
+> Java supports only Call by Value.
+
 *Interview Questions:*
