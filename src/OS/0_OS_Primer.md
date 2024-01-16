@@ -27,15 +27,14 @@ Types of OS:
 > In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
 > It is a program that takes commands from the keyboard and gives them to the operating system to perform.
 > When you open a terminal window on your Linux desktop, you are talking to the shell.
-> There are different flavors of shells, but the most popular one is called bash (Bourne Again SHell) which is the default on most Linux distributions.
 
-Some of the most popular shells are:
-- bash: Bourne Again SHell - default on most Linux distributions
-- zsh: Z SHell - default on macOS
-- fish: Friendly Interactive SHell - default on some Linux distributions
-- cmd: Windows Command Prompt - default on Windows
-- powershell: Windows PowerShell - default on Windows
-- command.com: MS-DOS Shell - default on MS-DOS (Microsoft Disk Operating System)
+>Some of the most popular shells are:
+   - > bash: Bourne Again SHell - default on most Linux distributions
+   - > zsh: Z SHell - default on macOS
+   - > fish: Friendly Interactive SHell - default on some Linux distributions
+   - > cmd: Windows Command Prompt - default on Windows
+   - > powershell: Windows PowerShell - default on Windows
+   - > command.com: MS-DOS Shell - default on MS-DOS (Microsoft Disk Operating System)
 
 *What is a Terminal*
 > A terminal is a program that opens a window and lets you interact with the shell.
