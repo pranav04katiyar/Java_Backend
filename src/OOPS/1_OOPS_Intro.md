@@ -1,5 +1,3 @@
-This package is about understanding concepts of OOPS in Java.
-
 => Principles of OOPS:
 ABSTRACTION - Process of hiding the implementation details and showing only functionality to the user.
     -> Abstraction lets you focus on what the object does instead of how it does it.
