@@ -12,15 +12,22 @@ _Encapsulation has two aspects:_
 2. A mechanism for restricting direct access to some of the object's components: Access Modifiers (private, protected, public, default(package protected))
 
 *Concepts within Encapsulation:*
-1. >Class & Object
-   > Attributes (or Properties or Fields) - Variables
-   > Methods (or Behaviors) - Functions 
-   > Constructor: Default, No-Arg, Parameterized, Copy(Shallow, Deep, Cloning), Telescoping, Overloading 
-   > Destructor: finalize() method 
-   > Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
+1. >Class & Object:
+
+    > Attributes (or Properties or Fields) - Variables
+
+    > Methods (or Behaviors) - Functions 
+
+    > Constructor: Default, No-Arg, Parameterized, Copy(Shallow, Deep, Cloning), Telescoping, Overloading 
+
+    > Destructor: finalize() method 
+
+    > Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
 2. >Access Modifiers
-   > Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
-   > Getter and Setter Methods
+   
+    > Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
+   
+    > Getter and Setter Methods
 3. >this keyword & this() method
 4. >static keyword (in terms of Variable. Method, Class, Constructor)
 5. >final keyword (in terms of Variable, Method, Class)
