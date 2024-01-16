@@ -1,24 +1,24 @@
-###This package is about understanding concepts of OOPS in Java.
+*This package is about understanding concepts of OOPS in Java.*
 
-###LLD:
+*LLD:*
 
-Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
+>Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
 LLD has the following goals:
     -> Low level implementation details of a system
     -> Organization of code
     -> Writing good software
 
 *_What is a good software?_*
-  A good software is a software that is:
-    -> easy to understand
-    -> easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
-    -> easy to scale: Adaptable, Efficient, Reliable, Secure, can increase capacity and functionality as per the requirement.
-    -> easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features.
+> A good software is a software that is:
+    1. easy to understand 
+    2. easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
+    3. easy to scale: Adaptable, Efficient, Reliable, Secure, can increase capacity and functionality as per the requirement.
+    4. easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features.
 
 *_Extensibility vs Scalability:_*
 
-Extensibility is the ability to add new features without breaking existing features - Capability(Feature functionality) based.
-Scalability is the ability to increase capacity and functionality as per the requirement - Performance(Usage demand) based.
+    > Extensibility is the ability to add new features without breaking existing features - Capability(Feature functionality) based.
+    > Scalability is the ability to increase capacity and functionality as per the requirement - Performance(Usage demand) based.
 
 *Programming Paradigms:*
     
