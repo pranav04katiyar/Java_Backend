@@ -9,11 +9,30 @@ Types of OS:
   - > CPU utilization is very low.
   - > Example: MS-DOS, ATM machines OS, Smartwatches OS, etc.
 - Multiprogramming OS: Multiple programs can be executed at a time.
-  - > CPU is used efficiently as the CPU is not idle most of the time. 
+  - > CPU is used efficiently as the CPU is not idle most of the time. Example: Windows, Linux, macOS, etc.
   - > Can be further classified based on:
-      - > No. of users: Single-user OS (Personal Computers), Multi-user OS (Mainframes/Servers)
-      - > Program scheduling: Preemptive OS & Non-preemptive OS
-  - > Example: Windows, Linux, macOS, etc.
+    1. > No. of users: 
+         - > Single-user OS (Personal Computers)
+         - > Multi-user OS (Mainframes/Servers)
+    2. > Program scheduling:
+         - > Non-preemptive OS - OS cannot interrupt a program and allocate the CPU to another program. Used when a process terminates, or a process switches from running to the waiting state. Based on priority and is executed in batches(FIFO manner).
+         
+             > In this scheduling, once the resources (CPU cycles) are allocated to a process, the process holds the CPU till it gets terminated or reaches a waiting state.
+             In the case of non-preemptive scheduling, it does not interrupt a process running CPU in the middle of the execution.
+             Instead, it waits till the process completes its CPU burst time, and then it can allocate the CPU to another process.
+             
+             > It is suitable for simple systems where there is no need for a process to be terminated before it completes its execution. Eg: Printer OS, Elevator OS, etc.
+             It is also suitable for real-time operating systems where the process needs to complete its execution within a specified time.
+
+         - > Preemptive OS - OS can interrupt a program and allocate the CPU to another program, used when a process switches from running to ready state or from waiting to ready state.
+             It is based on priority, and it is used in time-sharing systems like a time slice, round-robin, etc.
+         
+             > In this scheduling, a process can be removed from the CPU, and this removal is based on priority.
+             If the priority of the newly arrived process is higher than the priority of the process currently being executed, the CPU will be preempted.
+         
+             > The resources (CPU cycles) are allocated to a process for a limited amount of time, and then it is taken from the process and given to another process.
+             It is also suitable for real-time operating systems where the process needs to complete its execution within a specified time.
+           
 - Multiprocessor OS: Multiple processors can be used to execute multiple programs at a time. 
   - > Example: Parallel Computing in Supercomputers.
 
@@ -45,6 +64,3 @@ Types of OS:
 > A command-line interface (CLI) processes commands to a computer program in the form of lines of text.
 > The program which handles the interface is called a command-line interpreter or command-line processor.
 > Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services.
-
-*What is a Process*
-> A process is an instance of a computer program that is being executed.
