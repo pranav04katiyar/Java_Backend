@@ -43,9 +43,9 @@ _Types of Processes_
    - > process state 
    - > process priority 
    - > List of open files, open ports, etc.
-   - > Memory management information
-   - > accounting information
-   - > program counter & other CPU registers etc. for each process.
+   - > Memory management information (memory units & addresses allocated to the process, to the stack, etc.)
+   - > accounting information (CPU used, time limits, etc.)
+   - > Copy of program counter & other CPU registers etc. for each process.
 
 *What is a CPU Burst*
 > A CPU burst is the time during which the process uses the CPU.
