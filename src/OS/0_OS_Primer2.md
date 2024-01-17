@@ -57,84 +57,102 @@ _Types of Processes_
 *Process Scheduling Algorithms*
 > There are many scheduling algorithms:
    - > *First Come First Serve (FCFS):* The process that requests the CPU first is allocated the CPU first.
-        Advantages:
+        
+        > Advantages:
         - > Simple to implement.
         - > No starvation.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Average waiting time is high.
         - > Average turnaround time is high.
         - > Average response time is high.
 
    - > *Shortest Job First (SJF):* The process with the shortest burst time is allocated the CPU first.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Shortest Remaining Time First (SRTF):* The process with the shortest remaining time is allocated the CPU first.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Priority Scheduling:* The process with the highest priority is allocated the CPU first.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Round Robin Scheduling:* Each process is allocated the CPU for a fixed time slice.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Context switching overhead.
         - > Average waiting time is high if the time slice is too large.
         - > Average turnaround time is high if the time slice is too large.
         - > Average response time is high if the time slice is too large.
 
    - > *Multilevel Queue Scheduling*: The ready queue is divided into multiple queues based on priority.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Multilevel Feedback Queue Scheduling*: The ready queue is divided into multiple queues based on priority. A process can move between the queues.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Lottery Scheduling*: Each process is assigned a number of lottery tickets. The scheduler draws a random ticket to select a process.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
 
    - > *Fair Share Scheduling*: The CPU is allocated to each process based on its share of the CPU.
-        Advantages:
+        
+        > Advantages:
         - > Average waiting time is low.
         - > Average turnaround time is low.
         - > Average response time is low.
-        Disadvantages:
+        
+        > Disadvantages:
         - > Difficult to implement.
         - > Starvation is possible.
