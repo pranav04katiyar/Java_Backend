@@ -10,6 +10,23 @@
 > Each process has its own memory space and is isolated from other processes.
 > This is known as process isolation.
 
+_Types of Processes_
+> There are two types of processes:
+- > I/O bound process:
+    - > A process that spends more time doing I/O than computations.
+    - > Example: A process that reads data from a file, spends most of its time waiting for data to be read, does some computations on it, and writes the results to another file.
+- > CPU bound process:
+    - > A process that spends more time doing computations than I/O.
+    - > Example: A process that performs matrix multiplication, sorts a large file, etc.
+
+*Process States*
+> A process can be in one of the following states:
+- > New: The process is being created.
+- > Ready: The process is waiting to be assigned to a processor.
+- > Running: Instructions are being executed.
+- > Waiting: The process is waiting for some event to occur(such as an I/O completion or reception of a signal).
+- > Terminated: The process has finished execution.
+
 *What is PCB*
 > When the process is created by the operating system it creates a data structure to store the information of that process.
 
@@ -29,23 +46,6 @@
    - > Memory management information
    - > accounting information
    - > program counter & other CPU registers etc. for each process.
-   
-_Types of Processes_
-> There are two types of processes:
-   - > I/O bound process:
-        - > A process that spends more time doing I/O than computations.
-        - > Example: A process that reads data from a file, spends most of its time waiting for data to be read, does some computations on it, and writes the results to another file.
-   - > CPU bound process:
-        - > A process that spends more time doing computations than I/O.
-        - > Example: A process that performs matrix multiplication, sorts a large file, etc.
-
-*Process States*
-> A process can be in one of the following states:
-   - > New: The process is being created.
-   - > Ready: The process is waiting to be assigned to a processor.
-   - > Running: Instructions are being executed.
-   - > Waiting: The process is waiting for some event to occur(such as an I/O completion or reception of a signal).
-   - > Terminated: The process has finished execution.
 
 *What is a CPU Burst*
 > A CPU burst is the time during which the process uses the CPU.
