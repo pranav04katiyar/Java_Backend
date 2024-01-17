@@ -55,8 +55,8 @@ _Types of Processes_
 > The process scheduler is a part of the operating system that decides which process runs at a certain point in time.
 
 *Process Scheduling Algorithms*
-> There are many scheduling algorithms:
-   - > *First Come First Serve (FCFS):* The process that requests the CPU first is allocated the CPU first.
+> There are many scheduling algorithms. Few of them are:
+   1. *First Come First Serve (FCFS):* The process that requests the CPU first is allocated the CPU first.
         
         > Advantages:
         - > Simple to implement.
@@ -67,7 +67,7 @@ _Types of Processes_
         - > Average turnaround time is high.
         - > Average response time is high.
 
-   - > *Shortest Job First (SJF):* The process with the shortest burst time is allocated the CPU first.
+   2. *Shortest Job First (SJF):* The process with the shortest burst time is allocated the CPU first.
         
         > Advantages:
         - > Average waiting time is low.
@@ -78,7 +78,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Shortest Remaining Time First (SRTF):* The process with the shortest remaining time is allocated the CPU first.
+   3. *Shortest Remaining Time First (SRTF):* The process with the shortest remaining time is allocated the CPU first.
         
         > Advantages:
         - > Average waiting time is low.
@@ -89,7 +89,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Priority Scheduling:* The process with the highest priority is allocated the CPU first.
+   4. *Priority Scheduling:* The process with the highest priority is allocated the CPU first.
         
         > Advantages:
         - > Average waiting time is low.
@@ -100,7 +100,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Round Robin Scheduling:* Each process is allocated the CPU for a fixed time slice.
+   5. *Round Robin Scheduling:* Each process is allocated the CPU for a fixed time slice.
         
         > Advantages:
         - > Average waiting time is low.
@@ -113,7 +113,7 @@ _Types of Processes_
         - > Average turnaround time is high if the time slice is too large.
         - > Average response time is high if the time slice is too large.
 
-   - > *Multilevel Queue Scheduling*: The ready queue is divided into multiple queues based on priority.
+   6. *Multilevel Queue Scheduling*: The ready queue is divided into multiple queues based on priority.
         
         > Advantages:
         - > Average waiting time is low.
@@ -124,7 +124,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Multilevel Feedback Queue Scheduling*: The ready queue is divided into multiple queues based on priority. A process can move between the queues.
+   7. *Multilevel Feedback Queue Scheduling*: The ready queue is divided into multiple queues based on priority. A process can move between the queues.
         
         > Advantages:
         - > Average waiting time is low.
@@ -135,7 +135,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Lottery Scheduling*: Each process is assigned a number of lottery tickets. The scheduler draws a random ticket to select a process.
+   9. *Lottery Scheduling*: Each process is assigned a number of lottery tickets. The scheduler draws a random ticket to select a process.
         
         > Advantages:
         - > Average waiting time is low.
@@ -146,7 +146,7 @@ _Types of Processes_
         - > Difficult to implement.
         - > Starvation is possible.
 
-   - > *Fair Share Scheduling*: The CPU is allocated to each process based on its share of the CPU.
+   10. *Fair Share Scheduling*: The CPU is allocated to each process based on its share of the CPU.
         
         > Advantages:
         - > Average waiting time is low.
