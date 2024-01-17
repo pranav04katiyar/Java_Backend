@@ -50,11 +50,11 @@ _Types of Processes_
 *What is a CPU Burst*
 > A CPU burst is the time during which the process uses the CPU.
 
-*Process Scheduling*
+*CPU(Process) Scheduling*
 > The process scheduler selects an available process for program execution on the CPU based on scheduling algorithms.
 > The process scheduler is a part of the operating system that decides which process runs at a certain point in time.
 
-*Process Scheduling Algorithms*
+*CPU(Process) Scheduling Algorithms*
 > There are many scheduling algorithms. Few of them are:
    1. *First Come First Serve (FCFS):* The process that requests the CPU first is allocated the CPU first.
         
