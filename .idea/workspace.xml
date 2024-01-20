@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b5be47-2e4c-4cb6-8996-5d71bbac159b" name="Changes" comment="" />
+    <list default="true" id="73b5be47-2e4c-4cb6-8996-5d71bbac159b" name="Changes" comment="Pushing OOPS Readme">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pranav04katiyar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="15f93880-e998-4525-bcb7-cfae6f658436" />
+        <option name="url" value="https://github.com/pranav04katiyar/LLD_Practice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -29,6 +50,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pranavkatiyar/IdeaProjects/Java_Backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -37,6 +59,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/OS/Process_Management" />
+      <recent name="$PROJECT_DIR$/src/OS/JavaConcurrency_Multithreading" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,10 +81,33 @@
       <option name="presentableId" value="Default" />
       <updated>1705295813595</updated>
       <workItem from="1705295815003" duration="590000" />
+      <workItem from="1705303126708" duration="9428000" />
+      <workItem from="1705384415240" duration="142000" />
+      <workItem from="1705384579665" duration="20595000" />
+      <workItem from="1705469069098" duration="9906000" />
+      <workItem from="1705559588168" duration="1797000" />
+      <workItem from="1705642726856" duration="5156000" />
+      <workItem from="1705727252512" duration="730000" />
+      <workItem from="1705728563964" duration="1909000" />
+      <workItem from="1705731415509" duration="17000" />
+      <workItem from="1705733943645" duration="2194000" />
     </task>
+    <task id="LOCAL-00001" summary="Pushing OOPS Readme">
+      <option name="closed" value="true" />
+      <created>1705297571266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705297571267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pushing OOPS Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing OOPS Readme" />
   </component>
 </project>
