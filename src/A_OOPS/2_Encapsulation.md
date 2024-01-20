@@ -2,7 +2,7 @@
 -
 >Wrapping up of data (state) and methods (behavior) together into a single unit (i.e. class) and also hiding the data from outside world (i.e. data hiding).
 
-_How Encapsulation implements OOPs concept?_
+_How Encapsulation implements OOPS concept?_
 -
 1. Maintainability - Encapsulated code easy to maintain.
 2. Flexibility - Encapsulated code is easy to change.
@@ -17,35 +17,23 @@ _Encapsulation has two aspects:_
 *Concepts within Encapsulation:*
 -
 1. Class & Object:
-
-    > Attributes (or Properties or Fields) - Variables
-
-    > Methods (or Behaviors) - Functions 
-
-    > Constructor: Default, No-Arg, Parameterized, Copy(Shallow, Deep, Cloning), Telescoping, Overloading 
-
-    > Destructor: finalize() method 
-
-    > Types of Classes: Concrete, Abstract, Final, Inner, Anonymous, Nested
-
-    > Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
-
-    > Types of Objects: Mutable, Immutable
-
+- > Attributes (or Properties or Fields) - Variables
+- > Methods (or Behaviors) - Functions 
+- > Constructor: Default, No-Arg, Parameterized, Copy(Shallow, Deep, Cloning), Telescoping, Overloading 
+- > Destructor: finalize() method 
+- > Types of Classes: Concrete, Abstract, Final, Inner, Anonymous, Nested
+- > Inner Class: Static, Non-Static, Method Local, Anonymous, Nested
+- > Types of Objects: Mutable, Immutable
 2. Access Modifiers
-   
-    > Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
-   
-    > Getter and Setter Methods
+- > Access Modifiers (in terms of Class, Method, Variable, Constructor): private, protected, public, default(package protected)
+- > Getter and Setter Methods
 3. this keyword & this() method(Constructor Telescoping)
 4. static keyword (in terms Variable. Method, Class, Constructor)
 5. final keyword (in terms of Variable, Method, Class)
 6. new keyword (in terms of Object Creation & Memory Allocation)
 7. return keyword: 
-
-    > statement
-   
-    > type (in terms of void, primitive data type, class type)
+- > statement
+- > type (in terms of void, primitive data type, class type)
 8. main method
 9. Strings[] args
 10. System.out.println()

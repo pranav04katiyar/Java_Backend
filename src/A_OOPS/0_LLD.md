@@ -3,8 +3,8 @@
 >Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
 >LLD has the following goals:
 1. > Low level implementation details of a system
-2. >Organization of code
-3. >Writing good software
+2. > Organization of code
+3. > Writing good software
 
 *What is a good software?*
 -
@@ -43,7 +43,7 @@ Procedural Programming vs Object-Oriented Programming:
 > Objects are created in heap memory at runtime, using new keyword and constructors.
   Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
  
-Advantages of OOPs over Procedural Programming:
+Advantages of OOPS over Procedural Programming:
 
 > Re-usability: Through classes and objects, and inheritance of common attributes and functions.
 
@@ -53,7 +53,7 @@ Advantages of OOPs over Procedural Programming:
 
 > Inheritance: Easy to import required functionality from libraries and customize them, thanks to inheritance.
 
-Disadvantages of OOPs over Procedural Programming:
+Disadvantages of OOPS over Procedural Programming:
 
 > Beforehand planning of entities that should be modeled as classes.
 

@@ -1,4 +1,4 @@
-*Principles of OOPS - ABSTRACTION:* 
+*Principles of A_OOPS - ABSTRACTION:* 
 -
 >_Process of hiding the implementation details and showing only functionality to the user._
 > Abstraction lets you focus on what the object does instead of how it does it.
