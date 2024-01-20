@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73b5be47-2e4c-4cb6-8996-5d71bbac159b" name="Changes" comment="Pushing OOPS Readme">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -90,7 +89,7 @@
       <workItem from="1705727252512" duration="730000" />
       <workItem from="1705728563964" duration="1909000" />
       <workItem from="1705731415509" duration="17000" />
-      <workItem from="1705733943645" duration="2194000" />
+      <workItem from="1705733943645" duration="3125000" />
     </task>
     <task id="LOCAL-00001" summary="Pushing OOPS Readme">
       <option name="closed" value="true" />
@@ -100,11 +99,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705297571267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pushing OOPS Readme">
+      <option name="closed" value="true" />
+      <created>1705736524502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705736524503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pushing OOPS Readme" />
