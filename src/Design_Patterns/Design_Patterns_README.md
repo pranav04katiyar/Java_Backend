@@ -1,4 +1,4 @@
-> Design Patterns:
+# Design Patterns:
   
   > SOLID Principles
   - > Single Responsibility Principle
