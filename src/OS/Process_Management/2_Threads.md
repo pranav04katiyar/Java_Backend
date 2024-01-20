@@ -2,7 +2,7 @@
 
 
 *Process vs Threads*
---------------------
+
 | Process |	Thread |
 | --- | --- |
 | Processes use more resources and hence they are termed as heavyweight processes. | Threads share resources and hence they are termed as lightweight processes. |
@@ -12,4 +12,3 @@
 | Context Switching in processes is slower. | Context switching in threads is faster. |
 | Processes are independent of each other. | Threads, on the other hand, are interdependent. (i.e they can read, write or change another thread’s data) |
 | Eg: Opening two different browsers. | Eg: Opening two tabs in the same browser. |
---------------------
