@@ -1,4 +1,4 @@
-*What are Threads*
+*What are Threads?*
 --------------------
 > A thread is a lightweight process. It is a unit of execution within a process. A process can have multiple threads. Each thread has its own program counter, stack, and registers. Threads share the same address space. This means that all threads in a process can access the same memory. This is different from processes where each process has its own address space.
 

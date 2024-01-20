@@ -1,4 +1,5 @@
-*What is a Process*
+*What is a Process?*
+--
 > A process is an instance of a computer program that is being executed.
 > It contains the program code and its activity.
 
@@ -11,6 +12,7 @@
 > This is known as process isolation.
 
 _Types of Processes_
+
 > There are two types of processes:
 - > I/O bound process:
     - > A process that spends more time doing I/O than computations.
@@ -27,7 +29,8 @@ _Types of Processes_
 - > Waiting: The process is waiting for some event to occur(such as an I/O completion or reception of a signal).
 - > Terminated: The process has finished execution.
 
-*What is PCB*
+*What is PCB?*
+--
 > When the process is created by the operating system it creates a data structure to store the information of that process.
 
 > This is known as Process Control Block (PCB). PCB is a data structure that stores information of a process such as process id, process state, process priority, etc.
@@ -47,14 +50,17 @@ _Types of Processes_
    - > accounting information (CPU used, time limits, etc.)
    - > Copy of program counter & other CPU registers etc. for each process.
 
-*What is a CPU Burst*
+*What is a CPU Burst?*
+--
 > A CPU burst is the time during which the process uses the CPU.
 
 *CPU(Process) Scheduling*
+--
 > The process scheduler selects an available process for program execution on the CPU based on scheduling algorithms.
 > The process scheduler is a part of the operating system that decides which process runs at a certain point in time.
 
 *CPU(Process) Scheduling Algorithms*
+--
 > There are many scheduling algorithms. Few of them are:
    1. *First Come First Serve (FCFS):* The process that requests the CPU first is allocated the CPU first.
         
