@@ -6,7 +6,6 @@
 | Passive/Inactive | Active |
 | Not executable | Executable |
 | CPU not giving cycles to it | CPU giving cycles to it |
-| --- | --- |
 
 *Program to Process*
 1. > The source code lives on the hard drive as a file, and it is an inert entity, which means it is not doing anything by itself. 

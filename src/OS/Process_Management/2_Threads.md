@@ -4,7 +4,7 @@
 *Process vs Threads*
 --------------------
 | Process |	Thread |
---------------------
+| --- | --- |
 | Processes use more resources and hence they are termed as heavyweight processes. | Threads share resources and hence they are termed as lightweight processes. |
 | Creation and termination times of processes are slower. | Creation and termination times of threads are faster compared to processes. |
 | Processes have their own code and data/file. | Threads share code and data/file within a process. |
