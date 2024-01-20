@@ -1,13 +1,16 @@
 *Pillar 2: INHERITANCE -*
+-
 >Process by which one class acquires the properties of another class (i.e. re-usability)/Ability to copy fields and methods from one class to another class.
 
 _How Inheritance implements OOPS concept:_
+-
 1. Code Re-usability - Re-use the code of parent class in child class
 2. Extensibility - Add more features to the child class
 3. Flexibility - Change the code in one place (i.e. parent class) and use it in multiple places (i.e. child class)
 4. Modularity - Divide the code into multiple classes and use it in multiple places.
 
 _Concepts in Inheritance:_
+-
 1. Parent and Child Classes (Super and Sub Classes) - IS-A Relationship
 
     > extends keyword 

@@ -1,7 +1,5 @@
-*This package is about understanding concepts of OOPS in Java.*
-
 *LLD:*
-
+-
 >Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
 >LLD has the following goals:
 1. > Low level implementation details of a system
@@ -9,6 +7,7 @@
 3. >Writing good software
 
 *What is a good software?*
+-
 > A good software is a software that is:
 1. >Easy to understand 
 2. >Easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
@@ -16,12 +15,12 @@
 4. >Easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features. 
 
 *Extensibility vs Scalability:*
-
+-
 > Extensibility is the ability to add new features without breaking existing features - Capability(Feature functionality) based.
 > Scalability is the ability to increase capacity and functionality as per the requirement - Performance(Usage demand) based.
 
 *Programming Paradigms:*
-    
+-
 > Imperative Programming: focuses on describing how a program operates (algorithm) by providing a set of well-defined instructions to change state(data).
   Example: Procedural Programming(Eg: C,COBOL,BASIC,FORTRAN etc), Object Oriented Programming(Eg: Java,C++,C#,Python etc)
 
@@ -29,7 +28,7 @@
   Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
 
 Procedural Programming vs Object-Oriented Programming:
-
+-
 > Procedural programming is about writing procedures or methods that perform operations on the data, by storing state in data structures and behavior in methods/functions.
 > While object-oriented programming is about creating objects that contain both data (state) and methods (behaviour) within itself, just like real life objects, having some properties/characteristics and actionable behaviours.
 

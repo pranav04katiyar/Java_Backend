@@ -1,11 +1,11 @@
 *Program vs Process*
 --------------------
-| Program | Process |
-| --- | --- |
-| Resides on the hard drive as a file | Resides within RAM |
-| Passive/Inactive | Active |
-| Not executable | Executable |
-| CPU not giving cycles to it | CPU giving cycles to it |
+| Program                             | Process                |
+|-------------------------------------|------------------------|
+| Resides on the hard drive as a file | Resides within RAM     |
+| Passive/Inactive                    | Active                 |
+| Not executable                      | Executable             |
+| CPU not giving cycles to it         | CPU giving cycles to it |
 
 *Program to Process*
 --------------------
