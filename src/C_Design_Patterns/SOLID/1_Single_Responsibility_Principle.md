@@ -17,6 +17,18 @@ public void fly() {
     }
 }
 
+public void eat(){
+    if(type.equals(sparrow)){
+        System.out.println("Sparrow is eating");
+    }
+    if(type.equals(pigeon)){
+        System.out.println("Pigeon is eating");
+    }
+    if(type.equals(crow)){
+        System.out.println("Crow is eating");
+    }
+}
+
 public void sound(){
     if(type.equals(sparrow)){
         System.out.println("Coo");
@@ -29,5 +41,60 @@ public void sound(){
     }
 }
 ```
-> Here the fly() and the sound() methods are handling more than one responsibility:
-> - They are handiling 
+> Here the fly(), eat() and the sound() methods are handling more than one responsibility:
+> - They are handling the responsibility of flying different types of birds.
+> - They are handling the responsibility of eating different types of birds.
+> - They are handling the responsibility of making different sounds of birds.
+
+> Hence, there are multiple reasons to change the Bird class:
+> - If a new type of bird is added, the fly(), eat() and sound() methods need to be changed.
+> - If the flying style, eating style or sound of a bird is changed, the fly(), eat() and sound() methods need to be changed.
+
+> This is a violation to the Single Responsibility Principle.
+
+> To solve this, 
+```Java
+public class Bird {
+    private double weight;
+    private String color;
+    private String size;
+    private String beakType;
+    private String typeOfBird;
+
+    public void fly() {
+        if (type.equals(sparrow)) {
+            flyLikeSparrow();
+        }
+        if (type.equals(pigeon)) {
+            flyLikePigeon();
+        }
+        if (type.equals(crow)) {
+            flyLikeCrow();
+        }
+    }
+
+    public void eat() {
+        if (type.equals(sparrow)) {
+            eatLikeSparrow();
+        }
+        if (type.equals(pigeon)) {
+            eatLikePigeon();
+        }
+        if (type.equals(crow)) {
+            eatLikeCrow();
+        }
+    }
+
+    public void sound() {
+        if (type.equals(sparrow)) {
+            soundLikeSparrow();
+        }
+        if (type.equals(pigeon)) {
+            soundLikePigeon();
+        }
+        if (type.equals(crow)) {
+            soundLikeCrow();
+        }
+    }
+}
+```
