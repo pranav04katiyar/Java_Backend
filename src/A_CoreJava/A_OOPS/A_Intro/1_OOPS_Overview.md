@@ -40,3 +40,29 @@ _Pillar 3 - POLYMORPHISM:_
 5. >Synchronized Methods
 6. >Native Methods
 7. >Default Methods
+ 
+*List of Keywords in Java:*
+-
+1. >abstract
+2. >this
+3. >super
+4. >static
+5. >final
+6. >new
+7. >return
+8. >void
+9. >public
+10. >private
+11. >protected
+12. >default
+13. >class
+14. >interface
+15. >extends
+16. >implements
+17. >package
+18. >import
+19. >throws
+20. >throw
+21. >try
+22. >catch
+23. >finally
