@@ -1,7 +1,7 @@
 # Java_Backend
 This package contains all Java Backend concepts:
   
-> Core Java:
+**Core Java:**
   - OOPS
   - OS Topics:
     - Basics
@@ -14,14 +14,14 @@ This package contains all Java Backend concepts:
   - Annotations
   - Reflections
   
-> Design Patterns:
+**Design Patterns:**
   - SOLID Principles
   - Creational Design Patterns
   - Structural Design Patterns
   - Behavioral Design Patterns
   - UML Class Diagrams
 
-> LLD Machine Coding:
+**LLD Machine Coding:**
   - Design a Bird
   - Design a Pen
   - Design a Tic Tac Toe Game
