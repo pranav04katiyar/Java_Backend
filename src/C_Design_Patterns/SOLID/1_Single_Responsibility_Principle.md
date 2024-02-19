@@ -52,6 +52,11 @@ public void sound(){
 
 > This is a violation to the Single Responsibility Principle.
 
+> Along with this, there are multiple other issues with this Bird class:
+> - Readability: The code is not readable and maintainable. If we add more types of birds, the code will become more complex.
+> - Testability: We cannot test the fly(), eat() and sound() methods separately for each type of bird as they are in the same class.
+> - Parallel Development: We cannot develop the fly(), eat() and sound() methods in parallel as they are in the same class.
+
 > To solve this, 
 ```Java
 public class Bird {
