@@ -1,6 +1,7 @@
 *LLD:*
 -
 >Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
+> To put it in simple terms, LLD is the process of telling the system how the software will be implemented.
 >LLD has the following goals:
 1. > Low level implementation details of a system
 2. > Organization of code
