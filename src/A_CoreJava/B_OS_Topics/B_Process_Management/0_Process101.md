@@ -34,7 +34,7 @@ When the process is created by the operating system, it creates a data structure
 
 This is known as Process Control Block (PCB).
 
-> #### PCB is a data structure that stores information of a process such as process id, process state, process priority, etc.
+> ### PCB is a data structure that stores information of a process such as process id, process state, process priority, etc.
 > ![img.png](img.png)
 
 - It is the job of the OS to assign a CPU to a process.
