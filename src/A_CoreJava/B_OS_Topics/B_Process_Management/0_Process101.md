@@ -1,4 +1,4 @@
-# Process 101 and more
+# Process 101 
 ## What is a Process?
 A process is an instance of a computer program that is being executed. It contains the program code and its activity.
 
