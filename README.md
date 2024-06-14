@@ -3,16 +3,16 @@ This package contains all Java Backend concepts:
   
 **Core Java:**
   - OOPS
-  - OS Topics:
-    - Basics
+  - Multithreading and Concurrency
     - Process Management
-    - Multithreading and Concurrency
+    - Concurrency
+  - Advanced Java
+    - Collections 
+    - Generics
+    - Exception Handling
+    - Annotations
+    - Reflections
     - Memory Management
-  - Collections 
-  - Generics
-  - Exception Handling
-  - Annotations
-  - Reflections
   
 **Design Patterns:**
   - SOLID Principles
