@@ -1,14 +1,15 @@
-*LLD:*
--
->Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
-> To put it in simple terms, LLD is the process of telling the system how the software will be implemented.
->LLD has the following goals:
-1. > Low level implementation details of a system
-2. > Organization of code
-3. > Writing good software
+# Introduction to OOPS(Object-Oriented Programming System)
+## LLD: Low Level Design
+Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
+
+To put it in simple terms, LLD is the process of telling the system how the software will be implemented.
+
+LLD has the following goals:
+> 1. Low level implementation details of a system
+> 2. Organization of code
+> 3. Writing good software
 
 *What is a good software?*
--
 > A good software is a software that is:
 1. >Easy to understand 
 2. >Easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable

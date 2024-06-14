@@ -1,10 +1,10 @@
-*Principles of OOPS - ABSTRACTION:* 
--
->_Process of hiding the implementation details and showing only functionality to the user._
-> Abstraction lets you focus on what the object does instead of how it does it.
+# Overview of OOPS
+## ABSTRACTION - Principle of OOPS:
+_Process of hiding the implementation details and showing only functionality to the user._
 
-*Pillars of OOPS:*
--
+Abstraction lets you focus on what the object does instead of how it does it.
+
+## Pillars of OOPS:
 _Pillar 1 - ENCAPSULATION:_ 
 > Wrapping up of data (state) and methods (behavior) together into a single unit (i.e. class) and also hiding the data from outside world (i.e. data hiding).
 
