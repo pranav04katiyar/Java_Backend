@@ -1,7 +1,17 @@
 # Core Java 
 This package contains all Core Java concepts:
 
-1. **OOPS Concepts:**
+1. **Programming Paradigms**
+   - Imperative Programming
+     - Procedural Programming
+     - Object Oriented Programming
+   - Declarative Programming
+     - Functional Programming
+   - Reactive Programming
+   - Procedural Programming vs Object-Oriented Programming
+2. **OOPS Concepts:**
+  - What is OOPS?
+  - Pillars of OOPS
   - Abstraction
   - Encapsulation 
     - Classes and Objects
@@ -43,7 +53,7 @@ This package contains all Core Java concepts:
     - Final method
     - Final Variable
     - Final class
-2. **Multithreading & Concurrency:**
+3. **Multithreading & Concurrency:**
   - Process Vs Thread
   - Multicore systems
   - Concurrency vs Parallelism
@@ -69,7 +79,7 @@ This package contains all Core Java concepts:
     - Semaphores
     - Concurrent Data Structures
     - Atomic data types
-3. **Advanced Java Concepts:**
+4. **Advanced Java Concepts:**
   - Collections
     - Collection framework
     - Hierarchy of Collection Framework
@@ -89,6 +99,7 @@ This package contains all Core Java concepts:
     - Parallel Streams
   - Functional Programming using Java
   - Exception Handling
+  - Reflection and Annotations
   - Strings in Java
   - Garbage collection
   - Memory Management in Java
