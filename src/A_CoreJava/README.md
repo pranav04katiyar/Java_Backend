@@ -1,17 +1,19 @@
 # Core Java 
 This package contains all Core Java concepts:
 
-1. **Programming Paradigms**
-   - Imperative Programming
-     - Procedural Programming
-     - Object Oriented Programming
-   - Declarative Programming
-     - Functional Programming
-   - Reactive Programming
-   - Procedural Programming vs Object-Oriented Programming
-2. **OOPS Concepts:**
+1. **OOPS Concepts:**
+  - Programming Paradigms
+    - Imperative Programming
+      - Procedural Programming
+      - Object Oriented Programming
+    - Declarative Programming
+        - Functional Programming
+    - Reactive Programming
   - What is OOPS?
-  - Pillars of OOPS
+    - Procedural Programming vs Object-Oriented Programming
+    - Advantages of OOPS
+    - Disadvantages of OOPS
+    - Pillars of OOPS
   - Abstraction
   - Encapsulation 
     - Classes and Objects
