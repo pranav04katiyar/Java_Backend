@@ -79,7 +79,7 @@ This package contains all Core Java concepts:
     - Semaphores
     - Concurrent Data Structures
     - Atomic data types
-4. **Advanced Java Concepts:**
+4. **Advanced Core Java Concepts:**
   - Collections
     - Collection framework
     - Hierarchy of Collection Framework
