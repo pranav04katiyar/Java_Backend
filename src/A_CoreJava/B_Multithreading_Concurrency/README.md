@@ -1,7 +1,5 @@
-# Operating System
-Package Overview:
-
-- Process Management
+# Multithreading & Concurrency Overview:
+1. Process Management
     - Process 101
         - Process States
         - PCB
@@ -10,7 +8,7 @@ Package Overview:
     - Process Lifecycle
         - Process vs Program
         - Process to Program
-- Threads, Multithreading & Concurrency
+2. Threads, Multithreading & Concurrency
     - Threads 101
         - Thread vs Process
         - Concurrency vs Parallelism
