@@ -55,7 +55,7 @@ This package contains all Core Java concepts:
     - Final method
     - Final Variable
     - Final class
-3. **Multithreading & Concurrency:**
+2. **Multithreading & Concurrency:**
   - Process Vs Thread
   - Multicore systems
   - Concurrency vs Parallelism
@@ -81,7 +81,7 @@ This package contains all Core Java concepts:
     - Semaphores
     - Concurrent Data Structures
     - Atomic data types
-4. **Advanced Core Java Concepts:**
+3. **Advanced Core Java Concepts:**
   - Collections
     - Collection framework
     - Hierarchy of Collection Framework
