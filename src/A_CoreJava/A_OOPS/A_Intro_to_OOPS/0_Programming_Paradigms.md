@@ -36,42 +36,36 @@ Scalability is the ability to increase capacity and functionality as per the req
 
 ## Programming Paradigms:
 
-> Imperative Programming: focuses on describing how a program operates (algorithm) by providing a set of well-defined instructions to change state(data).
-  Example: Procedural Programming(Eg: C,COBOL,BASIC,FORTRAN etc), Object Oriented Programming(Eg: Java,C++,C#,Python etc)
+- Imperative Programming: 
+> - Focuses on describing how a program operates (algorithm) by providing a set of well-defined instructions to change state(data).
+> - Example: Procedural Programming(Eg: C,COBOL,BASIC,FORTRAN etc), Object Oriented Programming(Eg: Java,C++,C#,Python etc)
 
-> Declarative Programming: focuses on describing what a program should accomplish without specifying how the program should achieve the result.
-  Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
+- Declarative Programming:
+> - Focuses on describing what a program should accomplish without specifying how the program should achieve the result.
+> - Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
 
-Procedural Programming vs Object-Oriented Programming:
--
-> Procedural programming is about writing procedures or methods that perform operations on the data, by storing state in data structures and behavior in methods/functions.
-> While object-oriented programming is about creating objects that contain both data (state) and methods (behaviour) within itself, just like real life objects, having some properties/characteristics and actionable behaviours.
+### Popular Programming Paradigms:
+- **Imperative Programming:**
+  - Procedural Programming
+  - Object Oriented Programming
+- **Declarative Programming:**
+  - Functional Programming
+- **Reactive Programming**
 
-> Procedural Programming is a top-down, step-by-step, function driven approach, based on the concept of procedure(function) call.
-  State(data) and behavior(logic) are implemented separately. State is stored in data structures and behavior is held in functions.
-  The data structures are passed as parameters into functions to perform operations on them.
-       
-> Object-Oriented Programming is based on classes and objects. It is a bottom-up approach.
-  State(data) and behavior(logic) are implemented together in the form of objects by using classes.
-  Objects have state(attributes/data/variables) and behavior(methods/functions) to perform operations on the state.
-    
-> Objects are created in heap memory at runtime, using new keyword and constructors.
-  Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
- 
-Advantages of OOPS over Procedural Programming:
+### 1. Imperative Programming:
 
-> Re-usability: Through classes and objects, and inheritance of common attributes and functions.
 
-> Security: Hiding and protecting information through encapsulation.
+### 1.1. Procedural Programming:
 
-> Maintenance: Easy to make changes without affecting existing objects much.
 
-> Inheritance: Easy to import required functionality from libraries and customize them, thanks to inheritance.
+### 1.2. Object Oriented Programming:
 
-Disadvantages of OOPS over Procedural Programming:
 
-> Beforehand planning of entities that should be modeled as classes.
+### 2. Declarative Programming:
 
-> OOPS programs are usually larger than those of other paradigms.
 
-> Banana-gorilla problem - You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
+### 2.1. Functional Programming:
+
+
+### 3. Reactive Programming:
+

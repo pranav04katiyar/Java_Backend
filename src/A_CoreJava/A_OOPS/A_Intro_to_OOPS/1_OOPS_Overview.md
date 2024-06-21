@@ -1,10 +1,48 @@
 # Overview of OOPS
-## ABSTRACTION - Principle of OOPS:
+
+## What is OOPS?
+
+## Procedural Programming vs Object-Oriented Programming
+> Procedural programming is about writing procedures or methods that perform operations on the data, by storing state in data structures and behavior in methods/functions.
+> While object-oriented programming is about creating objects that contain both data (state) and methods (behaviour) within itself, just like real life objects, having some properties/characteristics and actionable behaviours.
+
+> Procedural Programming is a top-down, step-by-step, function driven approach, based on the concept of procedure(function) call.
+State(data) and behavior(logic) are implemented separately. State is stored in data structures and behavior is held in functions.
+The data structures are passed as parameters into functions to perform operations on them.
+
+> Object-Oriented Programming is based on classes and objects. It is a bottom-up approach.
+State(data) and behavior(logic) are implemented together in the form of objects by using classes.
+Objects have state(attributes/data/variables) and behavior(methods/functions) to perform operations on the state.
+
+> Objects are created in heap memory at runtime, using new keyword and constructors.
+Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
+
+
+## Advantages of OOPS:
+> Re-usability: Through classes and objects, and inheritance of common attributes and functions.
+
+> Security: Hiding and protecting information through encapsulation.
+
+> Maintenance: Easy to make changes without affecting existing objects much.
+
+> Inheritance: Easy to import required functionality from libraries and customize them, thanks to inheritance.
+
+
+## Disadvantages of OOPS:
+> Beforehand planning of entities that should be modeled as classes.
+
+> OOPS programs are usually larger than those of other paradigms.
+
+> Banana-gorilla problem - You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
+
+
+## Principle and Pillars of OOPS:
+### ABSTRACTION - Principle of OOPS:
 _Process of hiding the implementation details and showing only functionality to the user._
 
 Abstraction lets you focus on what the object does instead of how it does it.
 
-## Pillars of OOPS:
+### Pillars of OOPS:
 _Pillar 1 - ENCAPSULATION:_ 
 > Wrapping up of data (state) and methods (behavior) together into a single unit (i.e. class) and also hiding the data from outside world (i.e. data hiding).
 
