@@ -11,10 +11,23 @@ LLD has the following goals:
 
 ### *What is a good software?*
 A good software is a software that is:
-1. >Easy to understand 
-2. >Easy to maintain: Modular(loosely coupled, high cohesion), Reusable, Analyzable, Modifiable, Testable
-3. >Easy to scale: Adaptable, Efficient, Reliable, Secure, can increase capacity and functionality as per the requirement.
-4. >Easy to extend: Flexible, Effortlessness in adding new features, Enhanceable without breaking existing features. 
+1. Easy to understand 
+2. Easy to maintain: 
+   > - Modular(loosely coupled, high cohesion)
+   > - Reusable
+   > - Analyzable
+   > - Modifiable
+   > - Testable
+3. Easy to scale: 
+   > - Adaptable
+   > - Efficient
+   > - Reliable
+   > - Secure
+   > - Can increase capacity and functionality as per the requirement.
+4. Easy to extend: 
+   > - Flexible
+   > - Effortlessness in adding new features
+   > - Enhanceable without breaking existing features. 
 
 #### *Extensibility vs Scalability:*
 Extensibility is the ability to add new features without breaking existing features - Capability(Feature functionality) based.
