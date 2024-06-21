@@ -1,4 +1,4 @@
-# Introduction to OOPS(Object-Oriented Programming System)
+# Pre-requisite to OOPS(Object-Oriented Programming System)
 ## LLD: Low Level Design
 Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process to provide the internal logical design of the actual program code.
 

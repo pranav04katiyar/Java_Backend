@@ -1,5 +1,4 @@
-# Overview of OOPS
-
+# Introduction to OOPS
 ## What is OOPS?
 
 ## Procedural Programming vs Object-Oriented Programming
