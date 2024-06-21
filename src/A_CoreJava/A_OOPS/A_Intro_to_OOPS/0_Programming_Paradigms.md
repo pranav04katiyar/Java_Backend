@@ -37,12 +37,12 @@ Scalability is the ability to increase capacity and functionality as per the req
 ## Programming Paradigms:
 
 - Imperative Programming: 
-> - Focuses on describing how a program operates (algorithm) by providing a set of well-defined instructions to change state(data).
-> - Example: Procedural Programming(Eg: C,COBOL,BASIC,FORTRAN etc), Object Oriented Programming(Eg: Java,C++,C#,Python etc)
+  - Focuses on describing how a program operates (algorithm) by providing a set of well-defined instructions to change state(data).
+  - Example: Procedural Programming(Eg: C,COBOL,BASIC,FORTRAN etc), Object Oriented Programming(Eg: Java,C++,C#,Python etc)
 
 - Declarative Programming:
-> - Focuses on describing what a program should accomplish without specifying how the program should achieve the result.
-> - Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
+  - Focuses on describing what a program should accomplish without specifying how the program should achieve the result.
+  - Example: SQL, HTML, CSS, XML, Functional Programming(Eg: Haskell, Lisp, Erlang, Clojure etc), Logic Programming(Eg: Prolog, Datalog etc)
 
 ### Popular Programming Paradigms:
 - **Imperative Programming:**

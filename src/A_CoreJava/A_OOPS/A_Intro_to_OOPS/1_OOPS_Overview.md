@@ -17,6 +17,61 @@ Objects have state(attributes/data/variables) and behavior(methods/functions) to
 > Objects are created in heap memory at runtime, using new keyword and constructors.
 Classes are created in metaspace out of heap memory at compile time, using class keyword and class definition.
 
+Let's look at examples in both procedural and object-oriented programming to illustrate the difference.
+
+In procedural programming, data structures and methods (functions) are separate. You define data structures and then write functions to perform operations on those data structures. Here's a simple example in C, a procedural programming language:
+
+```c
+#include <stdio.h>
+
+// Data structure
+struct Student {
+    char name[50];
+    int age;
+};
+
+// Function to print student details
+void printStudent(struct Student s) {
+    printf("Name: %s\n", s.name);
+    printf("Age: %d\n", s.age);
+}
+
+int main() {
+    struct Student s1 = {"John", 20};
+    printStudent(s1);
+    return 0;
+}
+```
+
+In this example, `Student` is a data structure and `printStudent` is a function that operates on a `Student` object. The function is separate from the data structure.
+
+In contrast, in object-oriented programming (OOP), data and methods are encapsulated together in objects. An object is an instance of a class, and a class defines both data (attributes) and methods. Here's a similar example in Java, an object-oriented programming language:
+
+```java
+public class Student {
+    String name;
+    int age;
+
+    // Constructor
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    // Method to print student details
+    public void printStudent() {
+        System.out.println("Name: " + this.name);
+        System.out.println("Age: " + this.age);
+    }
+
+    public static void main(String[] args) {
+        Student s1 = new Student("John", 20);
+        s1.printStudent();
+    }
+}
+```
+
+In this example, `Student` is a class that encapsulates the data (`name` and `age`) and the method (`printStudent`) together. The method is part of the object, and it can directly access the object's data.
 
 ## Advantages of OOPS:
 > Re-usability: Through classes and objects, and inheritance of common attributes and functions.
