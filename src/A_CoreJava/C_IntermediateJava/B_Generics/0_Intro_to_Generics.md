@@ -26,7 +26,7 @@ String s = list.get(0);   // no cast
 3. **Enabling programmers to implement generic algorithms:**
 - By using generics, programmers can implement generic algorithms that work on collections of different types, can be customized, and are type safe and easier to read.
 
-Topics to be covered in this section:
+### Topics to be covered:
 - Generic Types & Raw Types
 - Generic Classes
 - Generic Methods
