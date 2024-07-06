@@ -37,7 +37,7 @@ The warning shows that raw types bypass generic type checks, deferring the catch
 
 The Type Erasure section has more information on how the Java compiler uses raw types.
 
-Unchecked Error Messages
+### Unchecked Error Messages
 
 As mentioned previously, when mixing legacy code with generic code, you may encounter warning messages similar to the following:
 
