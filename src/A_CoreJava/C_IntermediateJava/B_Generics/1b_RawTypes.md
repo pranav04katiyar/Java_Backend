@@ -1,4 +1,9 @@
 # Raw Types
+In Java 5, the concept of Generics was introduced. Generics allow us to create classes, interfaces, and methods that operate on objects of specified types. The main advantage of using Generics is to provide type safety at compile time. This means that the compiler can detect errors at compile time, rather than at runtime.
+
+Before Java 5, we had to use Object references to store any type of object. This was not type-safe, as the compiler could not detect the type of object being stored in the Object reference. This could lead to runtime errors, as the compiler could not detect the type of object being stored in the Object reference.
+
+Since Java has backward compatibility, it allows us to use raw types, which are non-generic types. Raw types are used to represent generic types without specifying the type parameter. This allows us to use legacy code that was written before Java 5, which did not use Generics.
 
 A raw type is the name of a generic class or interface without any type arguments. For example, given the generic Box class:
 ````

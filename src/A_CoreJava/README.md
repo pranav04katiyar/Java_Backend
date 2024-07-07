@@ -94,6 +94,12 @@ This package contains all Core Java concepts:
     - Vector
     - ConcurrentHashmap
   - Generics
+    - Generic Types & Raw Types
+    - Generic Classes
+    - Generic Methods
+    - Bounded Type Parameters
+    - Wildcards
+    - Type Erasure
   - Function Interface
   - Lambda Functions
   - Streams
